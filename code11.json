@@ -26,7 +26,7 @@
   "NativeType": "MAS",
   "RewardType": "MAS",
   "IsAdmobON": false,
-  "IsFacebookON": false,
+  "IsFacebookON": true,
   "IsIronON": false,
   "IsYandexON": false,
   "IsAppoDealON": false,
