@@ -25,7 +25,7 @@
   "InterType": "IS",
   "NativeType": "MAS",
   "RewardType": "MAS",
-  "IsAdmobON": false,
+  "IsAdmobON": true,
   "IsFacebookON": false,
   "IsIronON": false,
   "IsYandexON": false,
